@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Task 1",
+      "day": "Everyday 8PM to 10PM",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Task 2",
+      "day": "Everyday 10AM to 07PM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Task 3",
+      "day": "Today 8PM to 10PM",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "New Task",
+      "day": "Now - 1st July 2021, 3:00 PM",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
